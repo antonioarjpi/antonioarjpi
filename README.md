@@ -1,10 +1,10 @@
 ### 🌻 Sobre mim:
-Tenho 25 anos, sou de Teresina-PI e atualmente sou assistente de TI no grupo York distribuidora Ltda.
+Olá! Me chamo Antônio e tenho 26 anos, sou de Teresina-PI e atualmente trabalho como analista de TI no grupo York distribuidora Ltda. Sou apaixonado por tecnologia e programação, e estou sempre em busca de novos conhecimentos e desafios na área.
 
-- 🔭 Atualmente estou aprendendo Java, React e Angular.
-- 🌱 Estudante do 8º período de ciências da computação na faculdade Estácio de Sá e amante da programação.
+- 🔭 Atualmente, estou focado em aprimorar minhas habilidades em Java, Angular e React. Estou mergulhando no desenvolvimento de aplicações usando essas tecnologias, buscando aprender as melhores práticas e explorar suas capacidades.
+- 🌱 Além da minha atuação profissional, sou graduado em Ciências da Computação pela faculdade Estácio de Sá.
 
-
+No meu tempo livre, gosto de me dedicar a projetos pessoais e explorar novas tecnologias. Sou um entusiasta da programação e estou sempre em busca de desafios que me permitam expandir meu conhecimento e me desenvolver como profissional.
 
 ### ⚡ Tecnologias:
 #####  Estas são algumas das tecnologias e ferramentas que utilizo:
